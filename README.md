@@ -22,13 +22,13 @@ To get started with Sushi Store, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/mohd-shibilicv/Sushi-Store-Frontend.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd project-name
+   cd Sooshi Website
    ```
 
 3. Install the dependencies using a package manager such as npm or yarn:
